@@ -1,0 +1,15 @@
+.dashboard {
+  padding: 30px;
+}
+
+.dashboard h1 {
+  margin-bottom: 20px;
+}
+
+.project-list {
+  display: flex;
+
+  gap: 20px;
+
+  flex-wrap: wrap;
+}
